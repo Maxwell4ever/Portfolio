@@ -1,6 +1,6 @@
 # Portfolio
 
-# Experience
+# Education
 MITx Data Analysis for Social Sciences
 
 ## Work Experience
