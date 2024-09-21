@@ -3,8 +3,11 @@
 # Education
 ## MITx DEDP Micromaster Program - International Development Major| 2023 - 2024
 14.310x Data Analysis for Social Sciences
+
 MITxT JPAL102x Designing and Running Randomized Evaluations
+
 14.100x Microeconomics
+
 14.73x The Challenges of Global Poverty
 
 # Work Experience
